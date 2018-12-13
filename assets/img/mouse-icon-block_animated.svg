@@ -1,0 +1,5 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" style="">
+<path width="80" height="80" fill="white" d="M0 0 L80 0 L80 80 L0 80 Z" class="kMcxJyiA_0"></path>
+<path width="28" height="42" stroke="#333333" stroke-width="4" d="M 40,19 L 40,19 A 14,14,0,0,1,54,33 L 54,47 A 14,14,0,0,1,40,61 L 40,61 A 14,14,0,0,1,26,47 L 26,33 A 14,14,0,0,1,40,19" class="kMcxJyiA_1"></path>
+<path width="4" height="14" fill="#333333" d="M 40,26 L 40,26 A 2,2,0,0,1,42,28 L 42,38 A 2,2,0,0,1,40,40 L 40,40 A 2,2,0,0,1,38,38 L 38,28 A 2,2,0,0,1,40,26" class="kMcxJyiA_2"></path>
+<style data-made-with="vivus-instant">.kMcxJyiA_0{stroke-dasharray:320 322;stroke-dashoffset:321;animation:kMcxJyiA_draw 500ms ease-in-out 0ms forwards;}.kMcxJyiA_1{stroke-dasharray:116 118;stroke-dashoffset:117;animation:kMcxJyiA_draw 500ms ease-in-out 125ms forwards;}.kMcxJyiA_2{stroke-dasharray:33 35;stroke-dashoffset:34;animation:kMcxJyiA_draw 500ms ease-in-out 250ms forwards;}@keyframes kMcxJyiA_draw{100%{stroke-dashoffset:0;}}@keyframes kMcxJyiA_fade{0%{stroke-opacity:1;}91.91919191919192%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

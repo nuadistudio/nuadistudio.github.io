@@ -1,0 +1,165 @@
+.hero-text-container {
+  /*margin-top:300px;*/
+  position:relative;
+  top:160px;
+  padding:56px;
+  /*height:320px;*/
+  color:#fff;
+  overflow:hidden;
+}
+
+.hero-text {
+  position:relative;
+  font-weight:900;
+  font-size:72px;
+  color:#333;
+  margin-bottom:24px;
+  width:300px;
+  z-index:2;
+}
+
+.mouse-icon {
+  position:absolute;
+  right:0;
+  bottom:0;
+  /*display:none;*/
+}
+
+.hero-paragraph {
+  font-weight:500;
+  color:#333;
+}
+
+.section-title {
+  font-weight:900;
+  font-size:64px;
+  color:#333333;
+}
+
+.do-container {
+  width:100%;
+  height:580px;
+}
+
+.do-title {
+  font-weight:800;
+  color:#333;
+  margin-top:24px;
+}
+
+.do-para {
+  margin-top:24px;
+  max-width:480px;
+  line-height:2rem;
+}
+
+@media (max-width: 1200px) {
+  .col.do-col-text {
+    padding:0;
+    padding-top:48px;
+  }
+}
+
+.col.do-col-text {
+  padding:0;
+  padding-top:128px;
+}
+
+#do-gall {
+  max-width:400px;
+}
+
+.do-col-img {
+  padding-right:80px;
+}
+
+.mouse-icon-container {
+  width:100%;
+}
+
+.head-img {
+  color:#fff;
+  font-weight:900;
+  font-size:96px;
+  position:absolute;
+  bottom:-43px;
+  left:-8px;
+}
+
+.motion-container {
+  width:600px;
+  margin:0 auto;
+  max-height:256px;
+}
+
+.why-img {
+  width:100%;
+  height:560px;
+}
+
+.col.why-col-img {
+  /*padding:0 72px;*/
+  padding-left:64px;
+}
+
+.why-title {
+  font-weight:900;
+  margin-bottom:24px;
+}
+
+.col.why-col-text {
+  margin-top:80px;
+}
+
+.why-para {
+  line-height:2rem;
+}
+
+.stripe-text {
+  margin-bottom:-32px;
+}
+
+.cta-hero {
+  background-color:#FFC208;
+  color:#fff;
+  width:100%;
+  display:block;
+  text-align:center;
+  vertical-align:middle;
+  height:56px;
+  border:0;
+  border-radius:0;
+  margin-top:24px;
+  font-weight:800;
+}
+
+.cta-hero:hover {
+  background-color:#D1A007;
+}
+
+.cta-hero:active {
+  background-color:#D1A007 !important;
+}
+
+.cta-hero:focus {
+  background-color:#D1A007;
+}
+
+.cta-hero:target {
+  background-color:#D1A007;
+}
+
+.logo {
+  height:48px;
+  margin-top:-4px;
+}
+
+.navbar.navbar-light.navbar-expand-lg.fixed-top.bg-white.clean-navbar.nav {
+  border-bottom:2px solid #FFC208;
+}
+
+.nav-link:hover {
+  background-color:#FFC208;
+  color:#fff !important;
+}
+
